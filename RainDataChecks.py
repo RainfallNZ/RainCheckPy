@@ -38,7 +38,7 @@ def rain_outliers( rain_data: pd.DataFrame ) -> pd.DataFrame:
         Output = pd.DataFrame(np.nan, columns=['Outlier'],index=rain_data.index)
     else:
         #Remove all the 0 observations
-        NonZeroRainData = rain_data.values[rain_data.values > 0]
+        NonZeroRainData = rain_data.values[rain_data.values > 0.2]
     
         #Find the ninetyninth percentile of the data
         NinetyNinth = np.quantile(NonZeroRainData,0.99)
