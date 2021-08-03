@@ -39,7 +39,7 @@ py
 
 ## Meta
 
-Rainfall.NZ – [@YourTwitter](https://twitter.com/dbader_org) – info@rainfall.nz
+Rainfall.NZ – info@rainfall.nz
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
