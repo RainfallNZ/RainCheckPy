@@ -31,10 +31,8 @@ py
 
 ## Release History
 
-* 0.1.0
-    * The first release as a package
 * 0.0.1
-    * Work in progress
+    * The first release as a package
 
 ## Meta
 
