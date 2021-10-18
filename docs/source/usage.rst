@@ -6,28 +6,24 @@ Usage
 Installation
 ------------
 
-To use RainCheckPy, first install it using pip:
+OSX & Linux:
+
 
 .. code-block:: console
 
-   (.venv) $ pip install RainCheckPy
+   python3 -m pip install RainCheckPy
+Windows:
 
-Creating recipes
+.. code-block:: console
+
+   py -m pip install RainCheckPy
+
+Testing rainfall data
 ----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
+yet to be written...
 
 For example:
 
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+>>> import RainCheckPy
+>>> RainCheckPy()
