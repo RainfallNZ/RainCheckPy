@@ -4,6 +4,8 @@
 
 These functions read in a dataframe of rainfall observation timeseries and checks each observation against a specific criteria. Each function then generates a time series of the result of the criteria test.
 
+Details of each of the functions is provided in the [Documentation](https://raincheckpy.readthedocs.io/en/latest/index.html)
+
 
 ![](header.png)
 
