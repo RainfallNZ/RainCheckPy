@@ -46,4 +46,5 @@ Contents
    
    Usage
    Check list
-   Outliers
+   Single series checks
+   Multi-series checks
