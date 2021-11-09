@@ -42,8 +42,7 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 2
-   
+
    usage
    Single Series Checks <singleserieschecks>
    Multi-series Checks <multiserieschecks>
