@@ -8,7 +8,7 @@ Overview
 RainCheckPy provides functions to check the quality of rain data time series. Each function returns timeseries of quality indices.
 The quality checks are divided into two main types:
 
-#. Single series checks. These checks use only the rainfall data of individual sites.
+#. Single series checks. These checks use only data associated with a single site.
 #. Multi-series checks. These checks compare data with a second site's data.
 
 Single Series Checks
@@ -42,6 +42,8 @@ Contents
 --------
 
 .. toctree::
-
+   :maxdepth: 2
+   
    Usage
    Check list
+   Outliers
