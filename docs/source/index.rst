@@ -45,6 +45,5 @@ Contents
    :maxdepth: 2
    
    Usage
-   Check list
    Singleserieschecks
-   Multi-series checks
+   Multiserieschecks
