@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'RainCheckPy'
+copyright = '2021, Rainfall.NZ'
+author = 'Tim Kerr'
 
 release = '0.1'
 version = '0.1.0'
