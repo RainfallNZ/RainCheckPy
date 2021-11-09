@@ -46,5 +46,5 @@ Contents
    
    Usage
    Check list
-   Single series checks
+   Singleserieschecks
    Multi-series checks
