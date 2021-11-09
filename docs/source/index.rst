@@ -45,5 +45,5 @@ Contents
    :maxdepth: 2
    
    usage
-   singleserieschecks
-   multiserieschecks
+   Single Series Checks <singleserieschecks>
+   Multi-series Checks <multiserieschecks>
