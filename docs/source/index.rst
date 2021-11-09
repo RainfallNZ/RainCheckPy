@@ -23,7 +23,7 @@ Single Series Checks
 *  Rain during sub-zero temperatures
 *  Flow events associated with rain events
 
-Mult-series Checks
+Multi-series Checks
 ------------------
 
 *  affinity
