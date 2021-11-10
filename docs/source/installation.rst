@@ -1,10 +1,5 @@
-Usage
-=====
-
-.. _installation:
-
 Installation
-------------
+============
 
 OSX & Linux:
 
