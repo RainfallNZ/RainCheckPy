@@ -17,13 +17,3 @@ Windows:
 .. code-block:: console
 
    py -m pip install RainCheckPy
-
-Testing rainfall data
-----------------
-
-yet to be written...
-
-For example:
-
->>> import RainCheckPy
->>> RainCheckPy()
