@@ -43,6 +43,6 @@ Contents
 
 .. toctree::
 
-   usage
+   installation
    Single Series Checks <singleserieschecks>
    Multi-series Checks <multiserieschecks>
