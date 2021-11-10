@@ -11,33 +11,6 @@ The quality checks are divided into two main types:
 #. Single series checks. These checks use only data associated with a single site.
 #. Multi-series checks. These checks compare data with a second site's data.
 
-Single Series Checks
---------------------
-
-*  Outliers
-*  Invalid Number
-*  Duplicate Date
-*  Dry Spells
-*  Repeated Values
-*  Homogeneity
-*  Rain during sub-zero temperatures
-*  Flow events associated with rain events
-
-Multi-series Checks
-------------------
-
-*  affinity
-*  spearman rank correlation
-*  outliers
-*  dry spells
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
 Contents
 --------
 
